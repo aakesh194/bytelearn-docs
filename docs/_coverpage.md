@@ -4,4 +4,4 @@
 
 > Welcome to the Documentation
 
-[Get Started](about)
+[Get Started](#bytelearn-bot)
