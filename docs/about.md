@@ -1,8 +1,14 @@
-# Bytelearn Bot
+# **Bytelearn Bot**
 
-Welcome to Bytelearn Bot, your personal math problem-solving assistant on Discord! This bot is designed to provide you with full solutions to various math problems directly within Discord.
+Welcome to Bytelearn Bot, your personal math problem-solving assistant on Discord! This bot is designed to provide you with full solutions to various math problems.
 
-**<span style="font-size:21px;">How to Ask a Math Question</span>**
+?>**Need help or stuck?** Join our discord server [here](https://discord.gg/jJMNGkQGnT)!
+
+The bot is powered by the Bytelearn app (more info [here](https://bytelearn.com)) to give answers directly within Discord. The bot may have limitations and errors and we are happy to help with any confusion or suggestions you may have. For more information on support or credits, go to [Support](support.md).
+
+<br>
+
+**<span style="font-size:25px;">How to Ask a Math Question</span>**
 
 **Using Prefixes:**
 Type your Math problem starting with the prefix question or `“Question:”` This is probably the most efficient way in asking your problem.
