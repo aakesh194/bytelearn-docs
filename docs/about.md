@@ -1,10 +1,10 @@
-# **Bytelearn Bot**
+# **BytelearnBot**
 
-Welcome to Bytelearn Bot, your personal math problem-solving assistant on Discord! This bot is designed to provide you with full solutions to various math problems.
+Welcome to BytelearnBot, your personal math problem-solving assistant on Discord! This bot is designed to provide you with full solutions to various math problems.
 
 ?>**Need help or stuck?** Join our discord server [here](https://discord.gg/jJMNGkQGnT)!
 
-The bot is powered by the Bytelearn app (more info [here](https://bytelearn.com)) to give answers directly within Discord. The bot may have limitations and errors and we are happy to help with any confusion or suggestions you may have. For more information on support or credits, go to [Support](support.md).
+The bot is powered by the Bytelearn app (more info [here](https://bytelearn.com)) to give answers directly within Discord. The bot may have limitations and errors and we are happy to help with any confusion or suggestions you may have. We are allowing servers to host our bot on their servers (more info on our Partnerships [page](servers.md)). For more information on support, credits, or partnerships, contact our [Admin](support.md).
 
 <br>
 
@@ -38,4 +38,4 @@ Type your Math problem starting with the prefix question or `“Question:”` Th
 
 **User Limits**
 
-Each user is allowed to ask up to 10 questions per day to manage demand and ensure quality responses.
+Each user is allowed to ask up to **10** questions per day to manage demand and ensure quality responses.

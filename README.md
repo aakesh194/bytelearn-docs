@@ -1,4 +1,4 @@
-# Bytelearn Bot documentation
+# BytelearnBot documentation
 Documentation for the discord bot (NOTE: *Work in progress*)
 
 Currently hosted on: (https://bytelearn-doc.vercel.app/)

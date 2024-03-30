@@ -1,18 +1,21 @@
 ***WORK IN PROGRESS***
-Updated: March 28, 2024
-Thank you for using Bytelearn Bot, powered by Bytelearn AI. Bytelearn ("we") is the company behind the math application that powers the functionality of the bot and is integrated to provide its services and functionalities within the bot itself directly. You can learn more about Bytelearn on our website: www.bytelearn.com. This privacy policy describes how we handle personal information and agreements when interacting with the bot.
 
-At Bytelearn, we protect your personal information and your right to privacy. Please note that your use of Bytelearn Bot is subject to Bytelearn's overarching privacy policy, which governs our collection, use, and control of personal information across all Bytelearn services and takes precedence over this policy. By using Bytelearn Bot, you agree to be bound by this policy as outlined [here](https://www.bytelearn.com/privacy-policy).
+Updated: March 28, 2024
+
+Thank you for using BytelearnBot, powered by Bytelearn AI. Bytelearn ("we") is the company behind the math application that powers the functionality of the bot and is integrated to provide its services and functionalities within the bot itself directly. You can learn more about Bytelearn on our website: www.bytelearn.com. This privacy policy describes how we handle personal information and agreements when interacting with the bot.
+
+At Bytelearn, we protect your personal information and your right to privacy. Please note that your use of BytelearnBot is subject to Bytelearn's overarching privacy policy, which governs our collection, use, and control of personal information across all Bytelearn services and takes precedence over this policy. By using BytelearnBot, you agree to be bound by this policy as outlined [here](https://www.bytelearn.com/privacy-policy).
 
 If you have any questions or concerns about this privacy policy or our practices, please contact us at support@bytelearn.ai.
 
-Details of the bot being covered in this policy--
+>Details of the bot being covered in this policy
 ``username:Bytelearn Bot#6030 || id:1212368275519053824``
+
 1. What we collect
 
 **TL;DR**: We collect personal information that is you provide to us voluntarily and 
 
-1.1 Information You Provide: When you interact with Bytelearn Bot, we may collect information that you provide directly, such as messages, commands, or requests you send to the Bot.
+1.1 Information You Provide: When you interact with BytelearnBot, we may collect information that you provide directly, such as messages, commands, or requests you send to the Bot.
 
 1.2 Automatically Collected Information: We may also automatically collect certain information about your interactions with the Bot, including your Discord username, user ID, and other usage data.
 
@@ -52,7 +55,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at [contact information].
 
-By using Bytelearn Bot, you consent to the terms of this Privacy Policy.
+By using BytelearnBot, you consent to the terms of this Privacy Policy.
 
 
 
