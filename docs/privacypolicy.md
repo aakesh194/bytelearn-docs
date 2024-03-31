@@ -1,62 +1,37 @@
-***WORK IN PROGRESS***
+Updated: March 31, 2024
 
-Updated: March 28, 2024
+Thank you for using BytelearnBot, powered by Bytelearn AI. Bytelearn ("we") is the company behind the math application that powers the functionality of the bot and is integrated to provide its services and functionalities within the bot itself. You can learn more about Bytelearn on our website: www.bytelearn.com. 
 
-Thank you for using BytelearnBot, powered by Bytelearn AI. Bytelearn ("we") is the company behind the math application that powers the functionality of the bot and is integrated to provide its services and functionalities within the bot itself directly. You can learn more about Bytelearn on our website: www.bytelearn.com. This privacy policy describes how we handle personal information and agreements when interacting with the bot.
+At Bytelearn, we protect your personal information and your right to privacy. Please note that your use of bot may be subject to Bytelearn's overarching [privacy policy](https://www.bytelearn.com/privacy-policy) when you sign up to use the Bytelearn app or its online services. 
 
-At Bytelearn, we protect your personal information and your right to privacy. Please note that your use of BytelearnBot is subject to Bytelearn's overarching privacy policy, which governs our collection, use, and control of personal information across all Bytelearn services and takes precedence over this policy. By using BytelearnBot, you agree to be bound by this policy as outlined [here](https://www.bytelearn.com/privacy-policy).
+This privacy policy describes how we handle personal data and agreements when interacting with the bot.
 
-If you have any questions or concerns about this privacy policy or our practices, please contact us at support@bytelearn.ai.
+### Data access
+Access to data is only permitted to the bot developers and only in the scope for development, testing, and maintenance of the bot. Data is not sold, provided to, or shared with any third party.
 
->Details of the bot being covered in this policy
-``username:Bytelearn Bot#6030 || id:1212368275519053824``
+>**Bot Details:** `username:Bytelearn Bot#6030 || id:1212368275519053824`
 
-1. What we collect
+### Data collected automatically
+This data is kept only for its stated functionality. 
+- The bot will await and monitor messages sent in the server until it detects the keyword `Question`. Once detected, it will perform the action of using Bytelearn API to solve the problem used with the keyword.
+- The bot will be invoked directly when `/ask-byte` slash command is used. The bot will again use Bytelearn API to solve the problem.
+If you do not consent to this feature of the bot scanning of your messages, you may choose to remove the bot from its server permissions.
 
-**TL;DR**: We collect personal information that is you provide to us voluntarily and 
+### Data collected by command
+The following items are collected and stored when the bot is invoked. This data is not collected automatically.
+- Your Discord user ID
+- Your input as with slash command or keyword
+- The message ID in which bot was invoked and reply to the message
+- Time and date of invoked messages sent
+- Any data needed for standard operation of bot such as server permissions and is stored as cache only while bot is running.
 
-1.1 Information You Provide: When you interact with BytelearnBot, we may collect information that you provide directly, such as messages, commands, or requests you send to the Bot.
+We collect user and message ID so that we can reply to the message. The bot may also store information for up to 24 hours relating to the user due to our credits system of limiting users to 10 questions a day.
 
-1.2 Automatically Collected Information: We may also automatically collect certain information about your interactions with the Bot, including your Discord username, user ID, and other usage data.
+### User rights
+You have the right to request to question or view the data with you and/or your server through contacting our [team](credits.md) at any time.
 
-2. Use of Information
+### Policy updates 
+This policy may be updated and changed at any time and will be available here on this webpage. Be aware that these changes may not be notified directly to users.
 
-2.1 To Provide Services: We use the information collected to provide, maintain, and improve the functionality of the Bot, including delivering responses to your queries and enhancing user experience.
-
-2.2 Analytics: We may analyze user interactions with the Bot to understand usage patterns, troubleshoot issues, and improve the Bot's performance.
-
-2.3 Communication: We may use your information to communicate with you about updates, changes to the Bot, or to respond to inquiries or support requests.
-
-3. Disclosure of Information
-
-We do not sell, trade, or otherwise transfer your information to outside parties. However, we may disclose your information in the following circumstances:
-
-3.1 Service Providers: We may share your information with trusted third-party service providers who assist us in operating the Bot, conducting our business, or servicing you.
-
-3.2 Legal Compliance: We may disclose information when we believe in good faith that such disclosure is necessary to comply with applicable laws, regulations, or legal processes, or to protect the rights, property, or safety of Bytelearn Bot, its users, or others.
-
-4. Data Retention
-
-We will retain your information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
-
-5. Security
-
-We take reasonable measures to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
-
-6. Children's Privacy
-
-The Bot is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are a parent or guardian and become aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from children under 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-8. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at [contact information].
-
-By using BytelearnBot, you consent to the terms of this Privacy Policy.
-
-
-
-
+### Contact
+If you have any questions or concerns about this privacy policy or our practices, please contact us at support@bytelearn.ai or any of our [devs](credits.md).

@@ -4,7 +4,7 @@ Welcome to BytelearnBot, your personal math problem-solving assistant on Discord
 
 ?>**Need help or stuck?** Join our discord server [here](https://discord.gg/jJMNGkQGnT)!
 
-The bot is powered by the Bytelearn app (more info [here](https://bytelearn.com)) to give answers directly within Discord. The bot may have limitations and errors and we are happy to help with any confusion or suggestions you may have. We are allowing servers to host our bot on their servers (more info on our Partnerships [page](servers.md)). For more information on support, credits, or partnerships, contact our [Admin](support.md).
+The bot is powered by the Bytelearn app :iphone: and its API (more info [here](https://bytelearn.com)) to give answers directly within Discord. The bot may have limitations and errors and we are happy to help with any confusion or suggestions you may have. We are allowing servers to host our bot on their servers (more info on our Partnerships [page](servers.md)). For more information on support, credits, or partnerships, contact our [Admin](credits.md).
 
 <br>
 
